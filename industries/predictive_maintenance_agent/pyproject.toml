@@ -9,7 +9,7 @@ dependencies = [
   "nvidia-nat[profiling, langchain, telemetry]==1.2.1",
   "momentfm",
   "pydantic ~= 2.10.0, <2.11.0",
-  "vanna==0.7.9",
+  "vanna==2.0.2",
   "chromadb",
   "xgboost",
   "matplotlib",
