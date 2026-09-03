@@ -3,7 +3,7 @@
 # These versions match the pinned optional deps in pyproject.toml.
 
 # Vector database
-chromadb==0.4.24
+chromadb==1.5.9
 
 # Embeddings
 sentence-transformers==2.2.2
